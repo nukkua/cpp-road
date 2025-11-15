@@ -1,0 +1,27 @@
+FASE INICIAL
+Day 1 
+Configuracion del entorno []
+
+FASE DE IDENTIFICACION
+Solicitar 20 problemas para identificar mi nivel variados, que tenga tanto como dp, greedy, math, geometria, grafos
+1 hr por ejercicio, una hora para tratar de resolver
+30 min para el upsolving
+
+Day 2 
+Resolver 5 []
+Upsolving 5 []
+
+Day 3 
+Resolver 5 []
+Upsolving 5 []
+
+Day 4 
+Resolver 5 []
+Upsolving 5 []
+
+Day 5 
+Resolver 5 []
+Upsolving 5 []
+
+
+
