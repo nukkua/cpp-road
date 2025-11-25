@@ -21,5 +21,6 @@ using vll = vector<pair<ll, ll>>;
 #define DBG(x) cerr<< #x<< " = "<< (x) << el
 
 signed main(){
+    
     return 0;
 }
